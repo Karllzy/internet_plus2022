@@ -6,7 +6,9 @@ typora-copy-images-to: ./images
 
 # 当前PPT与讲稿
 
-当前PPT与讲稿留存于[链接🔗](./ppt.md)内
+当前PPT与讲稿留存于[链接🔗](https://dlf4cvlgbr.feishu.cn/docx/doxcnsFDD6J153Dv58LMLNZNgjd)内
+
+![image-20220826135358766](images/image-20220826135358766.png)
 
 # 8月19日刘晓芳
 
@@ -350,3 +352,4 @@ typora-copy-images-to: ./images
 ### 核心技术
 
 -  技术那边可以拍一点现场的图，棉花需要解释两件事情，第一是杂质，第二是剔除的具体过程，
+
